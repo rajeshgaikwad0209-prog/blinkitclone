@@ -31,7 +31,7 @@ This project is built to practice Android development and understand how a real-
 
 ## 👨‍💻 Developer
 
-**Jeyasuriya**
+**rajesh gaikwad**
 
 ---
 
